@@ -17,9 +17,6 @@ let package = Package(
             dependencies: [
                 .target(name: "TPExchange")
             ],
-            resources: [
-                .copy("Resources/TradPlusADX.bundle")
-            ],
             linkerSettings: [
                 .linkedFramework("CoreGraphics"),
                 .linkedFramework("Foundation"),
