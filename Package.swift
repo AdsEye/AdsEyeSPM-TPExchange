@@ -27,7 +27,7 @@ let package = Package(
         .binaryTarget(
     name: "TPExchange",
     url: "https://github.com/AdsEye/AdsEyeSPM-TPExchange/releases/download/13.8.60/TPExchange-13.8.60.zip",
-    checksum: "608dc76554b6dfc90f35d9419a2663c6c8be6dc540bf64b4fe61e674bbd34598"
+    checksum: "b21fa4082274ba7afc76b0de578c76a57f7b1c5026efc310e7b1da0a45decfc5"
 )
     ]
 )
